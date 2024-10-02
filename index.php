@@ -154,7 +154,7 @@ require('./functions.php')
                 <br>
                 <div class="work-imgs">
                     <h3>Projekt</h3>
-                    <p>Den här portfoliosidan har jag byggt själv. Kika gärna på koden på min Github: </p>
+                    <p>Den här portfoliosidan har jag byggt själv. Kika gärna på koden på min <a href="https://github.com/PontusBjorkdahl/min-portfolio" target="_blank">Github</a></p>
                     <p>Nedan finner ni några av projekten jag har arbetat med på min nuvarande arbetsplats, där jag bland annat har skapat designen och implementerat den. Samt skapat funktioner för att styra innehåll i adminpanelen samt AJAX-sökfunktionalitet med mera.</p>
                     <br>
                     <?php

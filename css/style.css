@@ -452,6 +452,12 @@ hr {
     margin-bottom: 30px;
 }
 
+.work-imgs a {
+    color: var(--theme);
+    font-size: 1.3rem;
+    text-decoration: underline;
+}
+
 /* The Modal (background) */
 .modal {
     scrollbar-width: none;
