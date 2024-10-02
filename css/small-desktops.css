@@ -1,0 +1,16 @@
+@media screen and (max-width: 1400px) {
+    :root {
+        --h1: 28px;
+        --h2: 24px;
+        --h3: 20px;
+        --p: 16px;
+    }
+
+    .about-content p {
+        margin-bottom: 12px;
+    }
+
+    .education-content {
+        margin-bottom: 10px;
+    }
+}
