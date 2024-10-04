@@ -117,10 +117,10 @@ class chatgpt {
             'Authorization: Bearer ' . CHATGPT_APIKEY
         ));
 
-       curl_setopt($ch, CURLOPT_VERBOSE, true);
-       $verbose_handle = fopen('debug.log', 'w');
-       curl_setopt($ch, CURLOPT_STDERR, $verbose_handle);
-       curl_setopt($ch, CURLOPT_FAILONERROR, true);
+    //    curl_setopt($ch, CURLOPT_VERBOSE, true);
+    //    $verbose_handle = fopen('debug.log', 'w');
+    //    curl_setopt($ch, CURLOPT_STDERR, $verbose_handle);
+    //    curl_setopt($ch, CURLOPT_FAILONERROR, true);
 
         $response = curl_exec($ch);
         curl_close($ch);

@@ -55,7 +55,7 @@ require('./functions.php')
                         <li>
                             <a href="#learning" aria-label="Learning">
                                 <div class="icon">
-                                    <i class="fa fa-briefcase" aria-hidden="true"></i>
+                                    <i class="fa fa-search" aria-hidden="true"></i>
                                 </div>
                                 <span>Fokus</span>
                             </a>
