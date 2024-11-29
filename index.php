@@ -104,10 +104,9 @@ require('./functions.php')
             <section id="about">
                 <div class="about-text">
                     <h2 class="highlight">Om mig</h2>
-                    <p>Nyfiken och driven junior Webbutvecklare som tog examen 2023 och har sedan
-                        dess arbetat på företaget jag gjorde min LIA på. Under de senaste året har jag haft 
-                        möjlighet att tillämpa mina färdigheter och arbeta med riktiga projekt. 
-                        Jag är mycket motiverad att fortsätta lära mig och växa inom webbutveckling och programmering som helhet.</p>
+                    <p>Nyfiken och driven junior webbutvecklare som tog examen 2023. Redan i oktober 2022 började jag arbeta på företaget där jag gjorde min LIA-praktik, 
+                        och jag är fortfarande anställd där idag. Sedan dess har jag haft möjligheten att tillämpa mina kunskaper i skarpa projekt och utvecklas både tekniskt och 
+                        professionellt. Jag är mycket motiverad att fortsätta växa inom webbutveckling och programmering som helhet.</p>
                 </div>
                 <div class="about-menu">
                     <div class="education">
